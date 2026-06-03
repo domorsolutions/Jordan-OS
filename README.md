@@ -1,2 +1,2 @@
 # Jordan-OS
-Person OS like Jarvis from Ironman
+Personal OS like Jarvis from Ironman
